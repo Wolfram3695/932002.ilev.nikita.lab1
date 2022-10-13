@@ -41,6 +41,8 @@ header{
 
 #link{
     text-align: center;
+    margin-bottom: -10px;
+    margin-top: -10px;
 }
 
 a{
@@ -66,4 +68,20 @@ ul{
 
 li{
     margin-bottom: 7px;
+}
+
+td{
+    height: 25px;
+    vertical-align: bottom;
+    text-align: center;
+}
+
+table{
+    border-color: white;
+}
+#list{
+    margin-bottom: -10px;
+}
+#styles{
+    line-height: 1.3;
 }
